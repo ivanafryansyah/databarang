@@ -1,0 +1,11 @@
+D:\CRUD-Ivan\CRUD_Ivan\CRUD_Ivan\bin\Debug\mine.accdb
+D:\CRUD-Ivan\CRUD_Ivan\CRUD_Ivan\bin\Debug\CRUD_Ivan.exe.config
+D:\CRUD-Ivan\CRUD_Ivan\CRUD_Ivan\bin\Debug\CRUD_Ivan.exe
+D:\CRUD-Ivan\CRUD_Ivan\CRUD_Ivan\bin\Debug\CRUD_Ivan.pdb
+D:\CRUD-Ivan\CRUD_Ivan\CRUD_Ivan\obj\Debug\CRUD_Ivan.csprojAssemblyReference.cache
+D:\CRUD-Ivan\CRUD_Ivan\CRUD_Ivan\obj\Debug\CRUD_Ivan.Form1.resources
+D:\CRUD-Ivan\CRUD_Ivan\CRUD_Ivan\obj\Debug\CRUD_Ivan.Properties.Resources.resources
+D:\CRUD-Ivan\CRUD_Ivan\CRUD_Ivan\obj\Debug\CRUD_Ivan.csproj.GenerateResource.cache
+D:\CRUD-Ivan\CRUD_Ivan\CRUD_Ivan\obj\Debug\CRUD_Ivan.csproj.CoreCompileInputs.cache
+D:\CRUD-Ivan\CRUD_Ivan\CRUD_Ivan\obj\Debug\CRUD_Ivan.exe
+D:\CRUD-Ivan\CRUD_Ivan\CRUD_Ivan\obj\Debug\CRUD_Ivan.pdb

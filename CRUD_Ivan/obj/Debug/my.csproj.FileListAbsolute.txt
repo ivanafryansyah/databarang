@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\my\my\bin\Debug\mine.accdb
+C:\Users\ASUS\source\repos\my\my\bin\Debug\my.exe.config
+C:\Users\ASUS\source\repos\my\my\bin\Debug\my.exe
+C:\Users\ASUS\source\repos\my\my\bin\Debug\my.pdb
+C:\Users\ASUS\source\repos\my\my\obj\Debug\my.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\my\my\obj\Debug\my.Form1.resources
+C:\Users\ASUS\source\repos\my\my\obj\Debug\my.Properties.Resources.resources
+C:\Users\ASUS\source\repos\my\my\obj\Debug\my.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\my\my\obj\Debug\my.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\my\my\obj\Debug\my.exe
+C:\Users\ASUS\source\repos\my\my\obj\Debug\my.pdb
